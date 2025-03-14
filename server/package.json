@@ -42,7 +42,7 @@
     "@logtail/node": "^0.5.0",
     "@logtail/winston": "^0.5.0",
     "@prisma/client": "^5.20.0",
-    "axios": "^1.7.7",
+    "axios": "^1.8.2",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.12",
     "cookie-parser": "^1.4.7",
