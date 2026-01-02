@@ -48,7 +48,7 @@
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
-    "express": "^4.21.1",
+    "express": "^4.22.0",
     "fs-extra": "^11.2.0",
     "html-to-text": "^9.0.5",
     "jsonwebtoken": "^9.0.2",
